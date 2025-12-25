@@ -1,0 +1,1 @@
+../../rv32-benchmarks/individual-instructions/rv32ui-p-jalr.x

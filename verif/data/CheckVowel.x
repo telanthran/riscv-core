@@ -1,0 +1,1 @@
+../../rv32-benchmarks/simple-programs/CheckVowel.x

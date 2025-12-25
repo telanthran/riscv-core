@@ -1,0 +1,15 @@
+bin_verilator/
+verif/sim/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+
+# Test artifacts
+verif/tests/sim_build/
+verif/tests/.build.lock
+verif/tests/results.xml
+*.vcd
+*.fst
